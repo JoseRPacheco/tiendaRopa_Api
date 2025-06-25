@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\context\\tiendaropacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "tiendaRopa_Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "tiendaRopa_Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T15:14:55.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Models\\ApiResponse.cs",
@@ -50,56 +66,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Controllers\\ProductosController.cs",
               "ToolTip": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "tiendaRopa_Api\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T00:05:08.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T00:05:08.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Models\\Producto.cs",
               "ToolTip": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Models\\Producto.cs",
               "RelativeToolTip": "tiendaRopa_Api\\Models\\Producto.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswAwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T23:03:29.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Program.cs",
-              "RelativeDocumentMoniker": "tiendaRopa_Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Program.cs",
-              "RelativeToolTip": "tiendaRopa_Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:54:37.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TiendaRopaContext.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Context\\TiendaRopaContext.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Context\\TiendaRopaContext.cs",
               "ToolTip": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Context\\TiendaRopaContext.cs",
               "RelativeToolTip": "tiendaRopa_Api\\Context\\TiendaRopaContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T02:06:59.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Program.cs",
+              "RelativeDocumentMoniker": "tiendaRopa_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Program.cs",
+              "RelativeToolTip": "tiendaRopa_Api\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:54:37.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\appsettings.json",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\appsettings.json",
@@ -107,7 +122,8 @@
               "RelativeToolTip": "tiendaRopa_Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T21:37:44.701Z"
+              "WhenOpened": "2025-02-06T21:37:44.701Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -89,3 +89,4 @@ C:\Users\Mar Len\source\repos\tiendaRopa_Api\tiendaRopa_Api\obj\Debug\net8.0\ref
 C:\Users\Mar Len\source\repos\tiendaRopa_Api\tiendaRopa_Api\obj\Debug\net8.0\tiendaRopa_Api.pdb
 C:\Users\Mar Len\source\repos\tiendaRopa_Api\tiendaRopa_Api\obj\Debug\net8.0\tiendaRopa_Api.genruntimeconfig.cache
 C:\Users\Mar Len\source\repos\tiendaRopa_Api\tiendaRopa_Api\obj\Debug\net8.0\ref\tiendaRopa_Api.dll
+C:\Users\Mar Len\source\repos\tiendaRopa_Api\tiendaRopa_Api\obj\Debug\net8.0\tiendaRopa_Api.sourcelink.json

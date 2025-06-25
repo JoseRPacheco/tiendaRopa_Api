@@ -24,7 +24,11 @@
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7229;http://localhost:5116",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DB_SERVER": "LAPTOP-2OTL1H0U\\SQLEXPRESS",
+        "DB_NAME": "TiendaRopa",
+        "DB_USER": "sa",
+        "DB_PASS": "hkx23ar81"
       }
     },
     "IIS Express": {
