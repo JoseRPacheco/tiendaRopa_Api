@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiendaRopa_Api", "tiendaRopa_Api\tiendaRopa_Api.csproj", "{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tiendaRopa_Api", "tiendaRopa_Api\tiendaRopa_Api.csproj", "{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{16E81B4A-A341-487A-AC8D-C672C50C38DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

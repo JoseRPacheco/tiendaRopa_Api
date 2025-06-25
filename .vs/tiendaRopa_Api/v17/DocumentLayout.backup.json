@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|c:\\users\\mar len\\source\\repos\\tiendaropa_api\\tiendaropa_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9BEF5D6D-ED11-44F2-9342-48AA9FE3D1D4}|tiendaRopa_Api\\tiendaRopa_Api.csproj|solutionrelative:tiendaropa_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\.gitignore",
+              "RelativeDocumentMoniker": "tiendaRopa_Api\\.gitignore",
+              "ToolTip": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\.gitignore",
+              "RelativeToolTip": "tiendaRopa_Api\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-25T23:19:05.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Properties\\launchSettings.json",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Models\\ApiResponse.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Controllers\\ProductosController.cs",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Models\\Producto.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TiendaRopaContext.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Context\\TiendaRopaContext.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Context\\TiendaRopaContext.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\Program.cs",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\Program.cs",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mar Len\\source\\repos\\tiendaRopa_Api\\tiendaRopa_Api\\appsettings.json",
               "RelativeDocumentMoniker": "tiendaRopa_Api\\appsettings.json",
@@ -122,8 +139,7 @@
               "RelativeToolTip": "tiendaRopa_Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T21:37:44.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T21:37:44.701Z"
             }
           ]
         }
